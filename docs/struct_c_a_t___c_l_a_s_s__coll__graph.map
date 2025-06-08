@@ -1,7 +1,0 @@
-<map id="CAT_CLASS" name="CAT_CLASS">
-<area shape="rect" id="Node000001" title="猫类（继承自动物类）" alt="" coords="148,104,247,131"/>
-<area shape="rect" id="Node000002" href="$struct_a_n_i_m_a_l___c_l_a_s_s___i_m_p_l_e_m_e_n_t_s.html" title="动物类接口" alt="" coords="5,5,222,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,42,189,102,185,106,132,46"/>
-<area shape="rect" id="Node000003" href="$struct_cat___attr.html" title="猫的附加属性" alt="" coords="246,5,317,32"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,46,210,106,206,102,259,42"/>
-</map>
