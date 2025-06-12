@@ -1,5 +1,5 @@
 /build
 /.vscode
 /docs
-!folder/logo.ico
-!folder/logo.png
+!/docs/logo.ico
+!/docs/logo.png
